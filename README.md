@@ -10,9 +10,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/moamen-hussein-414ab1254/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="moamen hussein" height="30" width="40" /></a>
-<a href="https://fb.com/mo'men hussein" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mo'men hussein" height="30" width="40" /></a>
-<a href="https://instagram.com/moamenhussein1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="moamenhussein1" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mo'men hussein" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mo'men hussein" height="30" width="40" /></a>
+<a href="https://www.facebook.com/moalfj?mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mo'men hussein" height="30" width="40" /></a>
+<a href="https://instagram.com/moamenhussein1?utm_source=qr&igshid=MzNlNGNkZWQ4Mg==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="moamenhussein1" height="30" width="40" /></a>
+<a href="https://leetcode.com/user3520GU/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mo'men hussein" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
