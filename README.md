@@ -19,9 +19,15 @@
 
 
 ### Connect with Me :
-
+<p align="left">
+<a href="https://linkedin.com/in/moamen hussein" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="moamen hussein" height="30" width="40" /></a>
+<a href="https://fb.com/mo'men hussein" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mo'men hussein" height="30" width="40" /></a>
+<a href="https://instagram.com/moamenhussein1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="moamenhussein1" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/mo'men hussein" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mo'men hussein" height="30" width="40" /></a>
+</p>
 <a href="https://www.linkedin.com/in/moamen-hussein-414ab1254/" target="_blank"><img src="https://img.shields.io/badge/-Moamen%20Hussein-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="https://t.me/+201024327924" target="_blank"><img src="https://img.shields.io/badge/-Moamen%20Hussein-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
+
 ### 🛠 &nbsp;Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
@@ -33,7 +39,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;
 ![GraphQL](https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=GraphQL)&nbsp;
-
+<p align="left"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
 
 
